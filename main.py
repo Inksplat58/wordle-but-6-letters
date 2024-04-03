@@ -361,4 +361,3 @@ while True:
             seventhguess = True
     print("You lost, the game will reset in 3 seconds")
     time.sleep(3)
-    
