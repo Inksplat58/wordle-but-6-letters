@@ -1,5 +1,5 @@
 import os, time
-from colorama import Fore, Back, Style
+from colorama import Fore,
 import wonderwords
 from wonderwords import RandomWord
 
